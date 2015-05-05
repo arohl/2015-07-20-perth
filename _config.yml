@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/arohl/perth-2015"
-workshop_site   : "http://arohl.github.io/perth-2015"
+workshop_repo   : "https://github.com/arohl/2015-07-20-perth"
+workshop_site   : "http://arohl.github.io/2015-07-20-perth"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
